@@ -8,9 +8,9 @@ The application combines PDF parsing, OCR, and Google's Gemini model to convert 
 
 ## Demo
 
-```markdown
-![Demo](assets/demo.gif)
-```
+<p align="center">
+  <img src="assets/demo.gif" alt="AI Form Builder Demo">
+</p>
 
 ---
 
